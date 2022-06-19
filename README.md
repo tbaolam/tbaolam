@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bao Lam
 - 👀 I’m interested in BackEnd, Game Programming.
-- 🌱 I’m currently learning Computer Science for BA at CSU Long Beach. (C++, Python, Java)
+- 🌱 I’m currently learning Computer Science for BA at CSU Long Beach. (C++, Python, Java, JS)
 - 💞️ I’m looking to collaborate on any website, web app project.
 - 📫 How to reach me: thienbao0712@gmail.com
 
